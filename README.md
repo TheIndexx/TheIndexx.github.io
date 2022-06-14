@@ -1,17 +1,11 @@
-# Quartz
+# Hello World
+Hello! 
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
+This is my first, and hopefully only, Zettelkasten. It's a tool I plan to use to create hubs of knowledge in my mind so I can gravitate away from the mundane structure of normal note-taking. I have no clue what it will look like at the time you are reading this, but hopefully I can grow it from the dark, empty canvas I see right now to something comprehensive and beautiful. 
 
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in CJK + Latex Support
-5. Support for both Markdown Links and Wikilinks
+With that in mind... welcome! I hope you get the same joy reading this as I do making it!
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Some of my interests:
+- [[Artificial Intelligence]], 06/12/2022
 
-🔗 Get Started: https://quartz.jzhao.xyz/
-
-![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+Enjoy!
