@@ -41,7 +41,6 @@ var TxtType = function(el, toRotate, period) {
   this.txt = '';
   this.tick();
   this.isDeleting = false;
-  this.toRotate.push("this u? " + ipaddress);
 };
 
 TxtType.prototype.tick = function() {
