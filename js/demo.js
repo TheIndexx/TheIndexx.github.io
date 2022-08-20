@@ -28,10 +28,10 @@ $(document).ready(function() {
   });
 });
 */
-$.getJSON("https://ipgeolocation.abstractapi.com/v1/?api_key=569c4e2dfc274b4b9114f25e0a5ab4ab", function(data) {
-  ipaddress = JSON.stringify(data.ip_address);
-})
-alert('nothing');
+// $.getJSON("https://ipgeolocation.abstractapi.com/v1/?api_key=569c4e2dfc274b4b9114f25e0a5ab4ab", function(data) {
+//   ipaddress = JSON.stringify(data.ip_address);
+// })
+// alert('nothing');
 
 var TxtType = function(el, toRotate, period) {
   this.toRotate = toRotate;
